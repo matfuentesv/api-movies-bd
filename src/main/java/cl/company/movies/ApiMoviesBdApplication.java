@@ -1,4 +1,4 @@
-package cl.company.movies.apimoviesbd;
+package cl.company.movies;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
